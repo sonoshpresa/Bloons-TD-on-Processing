@@ -2,7 +2,7 @@
 
 ***
 
-### Description and infoℹ️
+### Description and info ℹ️
 #### Work in progress...
 
 ***
