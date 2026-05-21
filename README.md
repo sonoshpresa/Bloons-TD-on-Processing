@@ -8,7 +8,7 @@
 ***
 
 ### Download 📥
-#### Soon!
+[Previous Version 📎](https://github.com/sonoshpresa/Bloons-TD-on-Processing/releases/tag/v0.1-beta)
 
 ***
 
